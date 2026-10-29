@@ -1,0 +1,31 @@
+{
+  "Home": {
+    "languageLabel": "Välj språk",
+    "skip": "Hoppa till innehållet",
+    "status": "Under utveckling · Kommer senare",
+    "headline": "Mer ordning. Mindre administration.",
+    "intro": "Vi bygger en enklare plats för svenska småföretag att hålla koll på sin ekonomi. Utformad för enskild firma och aktiebolag.",
+    "explore": "Utforska planen",
+    "github": "Följ projektet",
+    "notice": "En tidig förhandsvisning. Tjänsten är inte tillgänglig för bokföring ännu.",
+    "previewTitle": "Ditt företag, samlat",
+    "concept": "Koncept",
+    "previewSubtitle": "Planerade funktioner",
+    "features": {
+      "bookkeeping": "Bokföring",
+      "invoicing": "Fakturering",
+      "vat": "Moms",
+      "payroll": "Lön och anställda"
+    },
+    "mockupNote": "Endast illustration av planerade funktioner, utan verkliga företagsuppgifter.",
+    "sectionEyebrow": "Genomtänkt från början",
+    "sectionHeadline": "Byggt för vardagen i ett svenskt företag.",
+    "featureDescriptions": {
+      "bookkeeping": "Håll reda på verifikationer och affärshändelser med en spårbar historik.",
+      "invoicing": "Skapa fakturor och följ betalningar med tydligt underlag.",
+      "vat": "Förbered momsredovisning med dokumenterade regler och källor.",
+      "payroll": "Hantera anställda och löneunderlag för både enskild firma och AB."
+    },
+    "footer": "Utvecklas för svenska företag."
+  }
+}

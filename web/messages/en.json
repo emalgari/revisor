@@ -1,0 +1,31 @@
+{
+  "Home": {
+    "languageLabel": "Choose language",
+    "skip": "Skip to content",
+    "status": "In development · Coming later",
+    "headline": "More clarity. Less administration.",
+    "intro": "We're building a simpler place for Swedish small businesses to manage their finances. Designed for sole traders and limited companies.",
+    "explore": "Explore the plan",
+    "github": "Follow the project",
+    "notice": "This is an early preview. The service is not yet available for bookkeeping.",
+    "previewTitle": "Your business, in one place",
+    "concept": "Concept",
+    "previewSubtitle": "Planned features",
+    "features": {
+      "bookkeeping": "Bookkeeping",
+      "invoicing": "Invoicing",
+      "vat": "VAT",
+      "payroll": "Payroll and employees"
+    },
+    "mockupNote": "Illustrative preview of planned features, without actual business records.",
+    "sectionEyebrow": "Thoughtful by design",
+    "sectionHeadline": "Built for everyday Swedish business.",
+    "featureDescriptions": {
+      "bookkeeping": "Keep business transactions and supporting documents organized with a traceable history.",
+      "invoicing": "Create invoices and track payments with clear documentation.",
+      "vat": "Prepare VAT reporting with documented rules and official sources.",
+      "payroll": "Manage employees and payroll information for both sole traders and limited companies."
+    },
+    "footer": "In development for Swedish businesses."
+  }
+}
